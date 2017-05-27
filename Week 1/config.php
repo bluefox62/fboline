@@ -1,7 +1,7 @@
 <?php
 // This is an example of config.php
-$servername = 'us-cdbr-azure-southcentral-f.cloudapp.net';
-$username = 'b0e1277b8c5931';
-$password = 'c6147ed4';
+$servername = 'us-cdbr-azure-northcentral-b.cloudapp.net';
+$username = 'b353ca4f33ceee';
+$password = '2fc1d131';
 $dbname = 'fboline';
 ?>
