@@ -27,7 +27,7 @@
 					$lname = (isset($_POST['lname'])    ? $_POST['lname']   : '');
 
 					$sql= "SELECT id, fname, lname
-					FROM fboline
+					FROM myTable
 					WHERE fname LIKE '$fname' AND lname LIKE '$lname' LIMIT 1";
 					$result = mysqli_query($conn, $sql);
 
